@@ -94,10 +94,10 @@ namespace testEventHubSendUWP
             // TODO: Add code here to initialize your content.
             // 
             // <<NEW>> Set up Event Sub Send
-            //this.eventHubSend = new EventHubSend();
-            //// try to send message as test
-            //Debug.WriteLine("EventHubSendStart:call");
-            //this.eventHubSend.EventHubSendStart();
+            this.eventHubSend = new EventHubSend();
+            // try to send message as test
+            Debug.WriteLine("EventHubSendStart:call");
+            this.eventHubSend.EventHubSendStart();
 
 #if DRAW_SAMPLE_CONTENT
             // Initialize the sample hologram.

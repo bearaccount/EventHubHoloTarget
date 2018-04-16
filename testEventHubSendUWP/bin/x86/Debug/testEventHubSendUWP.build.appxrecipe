@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>b4f58765-1ba4-410c-a131-2e1d72f8f197</PackageIdentityName>
     <PackageIdentityPublisher>CN=osram</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\bin\x86\Debug\testEventHubSendUWP.exe">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\bin\x86\Debug\testEventHubSendUWP.exe">
       <PackagePath>entrypoint\testEventHubSendUWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\osram\.nuget\packages\microsoft.azure.amqp\2.2.0\lib\uap10.0\Microsoft.Azure.Amqp.dll">
@@ -421,56 +421,56 @@
     <AppxPackagedFile Include="C:\Users\osram\.nuget\packages\system.xml.xmlserializer\4.3.0\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\obj\x86\Debug\Content\Shaders\VertexShader.cso">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\obj\x86\Debug\Content\Shaders\VertexShader.cso">
       <PackagePath>Content\Shaders\VertexShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\obj\x86\Debug\Content\Shaders\VPRTVertexShader.cso">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\obj\x86\Debug\Content\Shaders\VPRTVertexShader.cso">
       <PackagePath>Content\Shaders\VPRTVertexShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\obj\x86\Debug\Content\Shaders\PixelShader.cso">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\obj\x86\Debug\Content\Shaders\PixelShader.cso">
       <PackagePath>Content\Shaders\PixelShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\obj\x86\Debug\Content\Shaders\GeometryShader.cso">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\obj\x86\Debug\Content\Shaders\GeometryShader.cso">
       <PackagePath>Content\Shaders\GeometryShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\bin\x86\Debug\Core\testEventHubSendUWP.exe">
+    <AppxPackagedFile Include="C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\bin\x86\Debug\Core\testEventHubSendUWP.exe">
       <PackagePath>testEventHubSendUWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -1,1 +1,1 @@
-C:\docs\TEMP2\EventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP\testEventHubSendUWP.csproj;x86
+C:\docs\REPOS\EventHubHoloTarget\testEventHubSendUWP\testEventHubSendUWP.csproj;x86

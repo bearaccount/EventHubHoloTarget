@@ -28815,11 +28815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\docs\\TEMP2\\EventHubSendUWP\\testEventHubSendUWP\\testEventHubSendUWP\\testEventHubSendUWP.csproj",
+      "projectUniqueName": "C:\\docs\\REPOS\\EventHubHoloTarget\\testEventHubSendUWP\\testEventHubSendUWP.csproj",
       "projectName": "testEventHubSendUWP",
-      "projectPath": "C:\\docs\\TEMP2\\EventHubSendUWP\\testEventHubSendUWP\\testEventHubSendUWP\\testEventHubSendUWP.csproj",
+      "projectPath": "C:\\docs\\REPOS\\EventHubHoloTarget\\testEventHubSendUWP\\testEventHubSendUWP.csproj",
       "packagesPath": "C:\\Users\\osram\\.nuget\\packages\\",
-      "outputPath": "C:\\docs\\TEMP2\\EventHubSendUWP\\testEventHubSendUWP\\testEventHubSendUWP\\obj\\",
+      "outputPath": "C:\\docs\\REPOS\\EventHubHoloTarget\\testEventHubSendUWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
